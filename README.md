@@ -18,6 +18,8 @@ This app has been made using Unity Game Engine.
 
 ## Screenshots
 
+The following screenshots are from the older version of this app. The older version of the app can be download by clicking [here](https://github.com/SethiShreya/ar-tiles/archive/refs/tags/1.0.zip). The new version has improved efficiency and new tile designs.
+
 <p align="middle">
 <img src="https://github.com/lightlessdays/ar-tiles/blob/main/1.jpeg" width=30%>
 <img src="https://github.com/lightlessdays/ar-tiles/blob/main/2.jpeg" width=30%>
