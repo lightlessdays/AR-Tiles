@@ -16,7 +16,12 @@ Often times, while buying tiles, it is not possible for people to find out wheth
 
 This app has been made using Unity Game Engine.
 
-##Contribute to this project
+## Contribute to this project
+
+Fork this project, make some changes and send a pull request to contribute to this project. You might consider completing one of the tasks from to-do list:
+- Adding iOS .ipa file in README.md for Apple Users.
+- Adding screenshots of version v2.0.
+- Spelling and grammar check.
 
 ## Screenshots
 
