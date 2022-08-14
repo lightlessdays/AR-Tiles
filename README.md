@@ -16,6 +16,8 @@ Often times, while buying tiles, it is not possible for people to find out wheth
 
 This app has been made using Unity Game Engine.
 
+##Contribute to this project
+
 ## Screenshots
 
 The following screenshots are from the older version of this app. The older version of the app can be download by clicking [here](https://github.com/lightlessdays/ar-tiles/releases/tag/v1.0). The new version has improved efficiency and new tile designs.
