@@ -4,15 +4,17 @@
 
 ## Test the app
 
-Download the app from here: [Download  APK](https://drive.google.com/file/d/1aCpERAaPkTyu1F5ARzpWaT5QH0mg9W3x/view?usp=sharing)
+Download the app from here: [Download  APK](https://drive.google.com/file/d/1_PrTd16t8KlljcNWAl8-2Pg3NPU5OJI4/view?usp=sharing)
 
 ## How it works?
 
-This app has been made using Unity and ARFoundation, so this app is compatible with both iOS and Android. This app requires you to have ARCore or ARKit installed in your device. If your phone does not support AR, unfortunately, you cannot use this app.
+This application buils upon the plane tracking feature of ARFoundation, integrating the horizontal floor planes with the tile textures, giving an illusion of tiles on floor.
 
-This app tracks horizontal planes around you. After tracking horizontal planes, it adds texture to the horizontal planes, giving users the illusion of tiles getting added to the planes.
+## Problem it solves
 
-With the help of this app, user can decide upon which tile will fit their room, without having to step out of the comfort of their homes.
+Often times, while buying tiles, it is not possible for people to find out whether the tiles would look good on their floors. Sometimes, they end up choosing the wrong tiles. This app solves the problem by allowing users to see how a selected tiles would look on their floor, just with a button. 
+
+This app has been made using Unity Game Engine.
 
 ## Screenshots
 
