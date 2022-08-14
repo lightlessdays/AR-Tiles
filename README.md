@@ -24,7 +24,7 @@ Fork this project, make some changes and send a pull request to contribute to th
 
 ## Screenshots
 
-The following screenshots are from the older version of this app. The older version of the app has been added as a pre-release version in the https://github.com/lightlessdays/ar-tiles/releases section.
+The following screenshots are from the older version of this app. The older version of the app has been added as a pre-release version in the [releases](https://github.com/lightlessdays/ar-tiles/releases) section.
 
 <p align="middle">
 <img src="https://github.com/lightlessdays/ar-tiles/blob/main/1.jpeg" width=30%>
