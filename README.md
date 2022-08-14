@@ -19,7 +19,7 @@ This app has been made using Unity Game Engine.
 ## Screenshots
 
 <p align="middle">
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/WhatsApp%20Image%202022-06-15%20at%2012.13.25%20PM%20(1).jpeg" width=30%>
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/WhatsApp%20Image%202022-06-15%20at%2012.13.25%20PM.jpeg" width=30%>
-<img src="https://github.com/lightlessdays/ar-tiles/blob/main/WhatsApp%20Image%202022-06-15%20at%2012.13.26%20PM.jpeg" width=30%>
+<img src="https://github.com/lightlessdays/ar-tiles/blob/main/1.jpeg" width=30%>
+<img src="https://github.com/lightlessdays/ar-tiles/blob/main/2.jpeg" width=30%>
+<img src="https://github.com/lightlessdays/ar-tiles/blob/main/3.jpeg" width=30%>
   </p>
