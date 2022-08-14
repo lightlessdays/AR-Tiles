@@ -1,5 +1,3 @@
-# AR Tiles: Try out different tiles on your floor...
-
 ![banner](https://github.com/lightlessdays/ar-tiles/blob/main/AR%20Tiles%20Banner.png)
 
 ## ⬇️ Test the app
