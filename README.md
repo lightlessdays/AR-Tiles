@@ -4,7 +4,7 @@
 
 Download the latest version of the app from here: [Download  APK](https://drive.google.com/file/d/1_PrTd16t8KlljcNWAl8-2Pg3NPU5OJI4/view?usp=sharing)
 
-Download pre-release version of the app from here: [Download pre=release APK](https://drive.google.com/file/d/1aCpERAaPkTyu1F5ARzpWaT5QH0mg9W3x/view?usp=sharing)
+Download pre-release version of the app from here: [Download pre-release APK](https://drive.google.com/file/d/1aCpERAaPkTyu1F5ARzpWaT5QH0mg9W3x/view?usp=sharing)
 
 ## 🔮 How it works?
 
