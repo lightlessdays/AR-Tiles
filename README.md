@@ -12,7 +12,7 @@ This application buils upon the plane tracking feature of ARFoundation, integrat
 
 ## ✨ Problem it solves
 
-Often times, while buying tiles, it is not possible for people to find out whether the tiles would look good on their floors. Sometimes, they end up choosing the wrong tiles. This app solves the problem by allowing users to see how a selected tiles would look on their floor, just with a button. 
+Often times, while buying tiles, it is not possible for people to find out whether the tiles would look good on their floors. Sometimes, they end up choosing the wrong tiles. This app solves the problem by allowing users to see how selected tiles would look on their floor, just with the click of a button. 
 
 This app has been made using Unity Game Engine.
 
